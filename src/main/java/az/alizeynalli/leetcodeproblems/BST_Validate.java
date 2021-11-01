@@ -3,6 +3,7 @@ package az.alizeynalli.leetcodeproblems;
 
 import az.alizeynalli.dt.binarytree.TreeNode;
 
+// https://leetcode.com/problems/validate-binary-search-tree/
 public class BST_Validate {
 
     public boolean validate(TreeNode root, Integer low, Integer high) {
