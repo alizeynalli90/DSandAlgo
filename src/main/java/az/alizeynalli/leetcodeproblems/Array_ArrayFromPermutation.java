@@ -1,7 +1,8 @@
 package az.alizeynalli.leetcodeproblems;
 
 // https://leetcode.com/problems/build-array-from-permutation/
-public class Array_ArrayFromPermutation {
+public class
+Array_ArrayFromPermutation {
     public static int[] buildArray(int[] nums) {
         int ans[] = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {

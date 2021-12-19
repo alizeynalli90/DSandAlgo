@@ -1,5 +1,6 @@
 package az.alizeynalli.leetcodeproblems;
 
+// https://leetcode.com/problems/first-bad-version/
 public class BS_IsBadVersion {
 
     private static int badVersion;

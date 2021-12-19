@@ -1,5 +1,6 @@
 package az.alizeynalli.leetcodeproblems;
 
+// https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 public class TP_TwoSum2 {
     public static int[] twoSum(int[] numbers, int target) {
         int[] result = new int[2];

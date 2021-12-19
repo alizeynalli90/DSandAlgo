@@ -1,6 +1,6 @@
 package az.alizeynalli.leetcodeproblems;
 
-// https://leetcode.com/problems/move-zeroes/submissions/
+// https://leetcode.com/problems/move-zeroes/
 public class TP_MoveZeros {
     public void moveZeroes(int[] nums) {
         int start = 0;
