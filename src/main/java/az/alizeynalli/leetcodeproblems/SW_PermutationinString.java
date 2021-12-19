@@ -1,9 +1,7 @@
 package az.alizeynalli.leetcodeproblems;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 // https://leetcode.com/problems/permutation-in-string/
 public class SW_PermutationinString {
