@@ -52,11 +52,11 @@ public class Graph_DFS_BFS {
         graph.put("e", e);
         String[] f = {};
         graph.put("f", f);
-        System.out.println("+++BFS Iterative+++");
+        System.out.println("+++DFS Iterative+++");
         dfsIt(graph, "a");
-        System.out.println("+++BFS Recursive+++");
+        System.out.println("+++DFS Recursive+++");
         dfsRec(graph, "a");
-        System.out.println("+++DFS+++");
+        System.out.println("+++BFS+++");
         bfs(graph, "a");
     }
 }
