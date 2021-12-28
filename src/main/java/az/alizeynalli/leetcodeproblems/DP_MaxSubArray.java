@@ -1,9 +1,5 @@
 package az.alizeynalli.leetcodeproblems;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
 public class DP_MaxSubArray {
     public static int maxSubArray(int[] nums) {
         int size = nums.length;

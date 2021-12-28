@@ -2,7 +2,6 @@ package az.alizeynalli.leetcodeproblems;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Stack;
 
 // https://leetcode.com/problems/all-paths-from-source-to-target/
 public class Graph_AllPathsToTarget {
